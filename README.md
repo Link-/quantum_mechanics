@@ -5,7 +5,7 @@ This list assumes you have a very basic understanding of the concepts associated
 
 These videos have been sorted to maximize your comprehension rate as some of these items have other videos as implicit pre-requisites.
 
-## Introduction -- Level 1
+## Level 1
 TBD [Discussed topics]: History, Particle/Wave Duality etc...
 
 1. [Quantum Theory Made Easy Part 1](https://www.youtube.com/watch?v=e5_V78SWGF0)
@@ -27,7 +27,7 @@ TBD [Discussed topics]:
 4. [Classical vs Quantum Physics -- Visualizing the Quantum Wave Function](https://www.youtube.com/watch?v=p7bzE1E5PMY)
 5. [Shrodinger's Equations](https://www.youtube.com/watch?v=jvvkomcmyuo)
 6. [Quantum Wave Function -- Superposition, Wave function collapse, and Uncertainty principle in Quantum Physics](https://www.youtube.com/watch?v=KKr91v7yLcM)
-7. [Quantum Spin - Visualizing the Physics and Mathematics](https://www.youtube.com/watch?v=3k5IWlVdMbo)
+7. [Quantum Spin - Visualizing the Physics and Mathematics](https://www.youtube.com/watch?v=3k5IWlVdMbo) [Related to Level-2-Item-2]
 8. [Quantum Entanglement, EPR paradox, Bell Inequality, and the implication for Einstein's Theory of Relativity](https://www.youtube.com/watch?v=v657Ylwh-_k)
 9. [Quantum Measurements are Entanglement](https://www.youtube.com/watch?v=sFRdVj4rrAE)
 10. [Quantum Operators for measurements of Energy, Position, and Momentum in Quantum Physics](https://www.youtube.com/watch?v=LZie2QC5Jbc)
