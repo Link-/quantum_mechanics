@@ -16,7 +16,7 @@ TBD [Discussed topics]:
 
 1. [Planck's Constant and The Origin of Quantum Mechanics](https://www.youtube.com/watch?v=tQSbms5MDvY)
 2. [The Double Slit Experiment](https://www.youtube.com/watch?v=p-MNSLsjjdo)
-3. 
+3. [Quantum Entanglement and the Great Bohr-Einstein Debate](https://www.youtube.com/watch?v=tafGL02EUOA)
 
 ## Level 3
 TBD [Discussed topics]:
