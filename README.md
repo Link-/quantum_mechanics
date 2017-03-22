@@ -36,7 +36,7 @@ TBD [Discussed topics]:
 ## Entry Level Books
 TBD [Discuss recommendations]:
 
-1. QED: The Strange Theory of Light and Matter [Amazon](https://www.amazon.com/QED-Strange-Theory-Light-Matter/dp/0691024170)
-2. Quantum Mechanics: The Theoretical Minimum [Amazon](https://www.amazon.com/Quantum-Mechanics-Theoretical-Leonard-Susskind/dp/0465062903)
-3. Quantum Field Theory for the Gifted Amateur [Amazon](https://www.amazon.com/Quantum-Field-Theory-Gifted-Amateur/dp/019969933X)
+1. QED: The Strange Theory of Light and Matter -- Richard P. Feynman ([Amazon](https://www.amazon.com/QED-Strange-Theory-Light-Matter/dp/0691024170))
+2. Quantum Mechanics: The Theoretical Minimum -- Leonard Susskind, Art Friedman ([Amazon](https://www.amazon.com/Quantum-Mechanics-Theoretical-Leonard-Susskind/dp/0465062903))
+3. Quantum Field Theory for the Gifted Amateur -- Tom Lancaster, Stephen J. Blundell ([Amazon](https://www.amazon.com/Quantum-Field-Theory-Gifted-Amateur/dp/019969933X))
 
