@@ -32,3 +32,11 @@ TBD [Discussed topics]:
 9. [Quantum Measurements are Entanglement](https://www.youtube.com/watch?v=sFRdVj4rrAE)
 10. [Quantum Operators for measurements of Energy, Position, and Momentum in Quantum Physics](https://www.youtube.com/watch?v=LZie2QC5Jbc)
 11. [Delayed Choice Quantum Eraser](https://www.youtube.com/watch?v=SzAQ36b9dzs)
+
+## Entry Level Books
+TBD [Discuss recommendations]:
+
+1. QED: The Strange Theory of Light and Matter [Amazon](https://www.amazon.com/QED-Strange-Theory-Light-Matter/dp/0691024170)
+2. Quantum Mechanics: The Theoretical Minimum [Amazon](https://www.amazon.com/Quantum-Mechanics-Theoretical-Leonard-Susskind/dp/0465062903)
+3. Quantum Field Theory for the Gifted Amateur [Amazon](https://www.amazon.com/Quantum-Field-Theory-Gifted-Amateur/dp/019969933X)
+
