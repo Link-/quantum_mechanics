@@ -33,6 +33,10 @@ TBD [Discussed topics]:
 10. [Quantum Operators for measurements of Energy, Position, and Momentum in Quantum Physics](https://www.youtube.com/watch?v=LZie2QC5Jbc)
 11. [Delayed Choice Quantum Eraser](https://www.youtube.com/watch?v=SzAQ36b9dzs)
 
+## Cross-Level
+
+1. [A free introduction to quantum computing and quantum mechanics](https://quantum.country/)
+
 ## Entry Level Books
 TBD [Discuss recommendations]:
 
